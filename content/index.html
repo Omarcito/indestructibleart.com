@@ -36,9 +36,9 @@ title: Hi
       <a href="{{ url }}" class='postTitleLink'><p class='postTitle'>{{ title }}</p></a>
       <p class='postPublished'>{{ date.toDateString }}</p>
       <p class='postAuthor'>By: {{ author }}</p>
-      <hr>
+      <img src="/images/forPosts/{{ titleimg }}" class='postTitleImg'>
       <p class='podcastSummary'>{{ subtitle }}</p>
-      <a href="{{ url }}" class='postTitleLink'><p class='postread'>Read More...</p></a>
+      <a href="{{ url }}" class='postTitleLink'><div class='postread group'><p>Read More...</p></div></a>
     </div>
   {{/content.posts}}
 </div>

@@ -195,10 +195,26 @@ body nav ul, body #features ul {
     text-decoration: none;
     color: black;
   }
+  body .postTitleImg {
+    width: 75%;
+    margin: auto;
+    position: relative;
+  }
   body .postread {
+    width: 100px;
+    height: 35px;
+    background-color: #086CA2;
+    border: 1px solid black;
+    box-shadow: 1px 1px black;
+    float: right;
+    padding-bottom: 10px;
+  }
+  body .postread p {
     font-weight: bold;
-    color: black;
-    text-align: right;
+    color: white;
+    margin: auto;
+    padding-top: 5px;
+    text-align: center;
   }
   body #disqus_thread {
     width: 90%;
