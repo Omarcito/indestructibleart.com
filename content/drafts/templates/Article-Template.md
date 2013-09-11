@@ -5,6 +5,7 @@ date: 2013-08-12
 subtitle: ""
 layout: articles
 featuredimg: feat.png
+titleimg: 
 number: /posts/.html
 = yaml =
 

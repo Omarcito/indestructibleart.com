@@ -67,12 +67,18 @@
       border: 1px solid black;
       box-shadow: 1px 1px black;
       padding-bottom: 10px;
+      transition-property: background-color;
+      transition-duration: .2s;
+      transition-timing-function: ease-in-out;
       p{
         font-weight: bold;
         color: white;
         margin: auto;
         padding-top: 5px;
         text-align: center;
+        transition-property: color;
+        transition-duration: .2s;
+        transition-timing-function: ease-in-out;
       }
       &:hover{
         background-color: #A9A9A9;

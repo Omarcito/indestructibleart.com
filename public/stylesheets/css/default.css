@@ -212,6 +212,9 @@ body nav ul, body #features ul {
     border: 1px solid black;
     box-shadow: 1px 1px black;
     padding-bottom: 10px;
+    transition-property: background-color;
+    transition-duration: .2s;
+    transition-timing-function: ease-in-out;
   }
   body .postread p {
     font-weight: bold;
@@ -219,6 +222,9 @@ body nav ul, body #features ul {
     margin: auto;
     padding-top: 5px;
     text-align: center;
+    transition-property: color;
+    transition-duration: .2s;
+    transition-timing-function: ease-in-out;
   }
   body .postread:hover {
     background-color: #A9A9A9;

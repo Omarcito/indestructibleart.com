@@ -1,5 +1,6 @@
 = yaml =
-title: Hi
+title: Home
+css: default
 = yaml =
 
 <div id='features' class='group'>
@@ -36,8 +37,7 @@ title: Hi
       <a href="{{ url }}" class='postTitleLink'><p class='postTitle'>{{ title }}</p></a>
       <p class='postPublished'>{{ date.toDateString }}</p>
       <p class='postAuthor'>By: {{ author }}</p>
-      <div class='postTitleImg' style="background-image:url(/images/forPosts/{{ titleimg }});">
-      </div>
+      <a href="{{ url }}"><div class='postTitleImg' style="background-image:url(/images/forPosts/{{ titleimg }});"></div></a>
       <p class='podcastSummary'>{{ subtitle }}</p>
       <a href="{{ url }}" class='postTitleLink'><div class='postread group'><p>Read More...</p></div></a>
     </div>
