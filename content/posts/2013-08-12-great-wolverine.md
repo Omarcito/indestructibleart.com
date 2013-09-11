@@ -5,6 +5,7 @@ date: 2013-08-12
 subtitle: "For years Wolverine has captivated the hearts and minds of the public and comic fans alike. Since his first appearance in the pages of Incredible Hulk, Wolverine has been one of the most popular and enduring characters to ever hit the medium.  Wolverine has shown to be one of the most complex, yet most versatile characters in all of comics. From an honored bound ronin to a wild berserker, here are my favorite solo Wolverine Stories that you should read."
 layout: articles
 featuredimg: featwolverine.png
+titleimg: wolverine-banner.png
 number: /posts/2013-08-12-great-wolverine.html
 = yaml =
 

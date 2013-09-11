@@ -4,6 +4,7 @@ author: "Omar de Armas"
 date: 2013-05-21
 subtitle: "Omar recaps Microsoft's announcement of the Xbox One"
 layout: articles
+titleimg: XboxOnePressKit/Hardware/Family/Family.png
 = yaml =
 
 <a href="{{ page.url }}" class='postTitleLink'><p class='postTitle'>{{ page.title }}</p></a>

@@ -4,6 +4,7 @@ author: "Omar de Armas"
 date: 2013-06-06 13:00:00
 subtitle: "Microsoft has updated us on some of the ins and outs of the Xbox One."
 layout: articles
+titleimg: XboxOnePressKit/XboxOneLogo.png
 = yaml =
 
 <a href="{{ page.url }}" class='postTitleLink'><p class='postTitle'>{{ page.title }}</p></a>
