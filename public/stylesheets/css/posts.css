@@ -153,9 +153,13 @@ body nav ul, body #features ul {
     background-attachment: fixed;
     font-family: Georgia, sans-serif;
   }
+  body .group:before,
   body .group:after {
     content: "";
     display: table;
+  }
+  body .group,
+  body .group:after {
     clear: both;
   }
   body .stuck_js {
@@ -284,8 +288,12 @@ body nav ul, body #features ul {
   body .audiojs .scrubber {
     width: 245px;
   }
-  body .postread {
+  body .postTitleImg {
+    width: 60%;
+    margin: 20px;
     float: right;
+    position: relative;
+    display: inline-block;
   }
 }
 /*---------------Tablet Landscape Width: 1024px---------------*/

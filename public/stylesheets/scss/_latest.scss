@@ -17,9 +17,11 @@
 @media screen and (min-width: 768px){
   body{
     .latest-container{
-      float: left;
-      display: inherit;
-      width: 48%;
+      //float: left;
+      display: inline-block;
+      width: 45%;
+      padding-left: 20px;
+
       a{
         text-decoration: none;
       }

@@ -6,9 +6,13 @@
     background-color: #235B79;
     margin:auto;
     width:100%px;
+    .group:before,
     .group:after{
       content: "";
       display: table;
+    }
+    .group,
+    .group:after{
       clear: both;
     }
     .stuck_js{
@@ -146,8 +150,12 @@
         width:245px;
       }
     }
-    .postread{
-      float: right;
+    .postTitleImg{
+      width:60%;
+      margin:20px;
+      float:right;
+      position:relative;
+      display:inline-block;
     }
   }
 }

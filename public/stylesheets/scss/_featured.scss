@@ -61,8 +61,10 @@
       max-width: 990px;
     }
     .featured-container{
-      float: right;
-      width: 48%;
+      padding-left: 50px;
+      //float: left;
+      width: 45%;
+      display:inline-block;
     }
   }
 }
