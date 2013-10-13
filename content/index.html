@@ -4,31 +4,33 @@ css: default
 = yaml =
 
 <div id='features' class='group'>
-  <div class='latest-container group'>
-    <ul>
-      <li class='listheader'><p>Latest Podcasts</p></li>
-      {{#content.latest}}
-        <a href="{{ number }}" target="_blank">
-          <li class='latest' style="background-image:url(/images/featured/{{ featuredimg }});">
-            <p class='postTitle'>{{ title }}</p>
-            <p class='postPublished'>{{ date.toDateString }}</p>
-          </li>
-        </a>
-      {{/content.latest}}
-    </ul>
-  </div>
-  <div class='featured-container group'>
-    <ul>
-      <li class='listheader'><p>Featured Posts</p></li>
-      {{#content.featured}}
-        <a href="{{ number }}">
-          <li class='featured' style="background-image:url(/images/featured/{{ featuredimg }});">
-            <p class='postTitle'>{{ title }}</p>
-            <p class='postPublished'>{{ date.toDateString }}</p>
-          </li>
-        </a>
-      {{/content.featured}}
-    </ul>
+  <div style="margin:auto;">
+    <div class='latest-container group'>
+      <ul>
+        <li class='listheader'><p>Latest Podcasts</p></li>
+        {{#content.latest}}
+          <a href="{{ number }}" target="_blank">
+            <li class='latest' style="background-image:url(/images/featured/{{ featuredimg }});">
+              <p class='postTitle'>{{ title }}</p>
+              <p class='postPublished'>{{ date.toDateString }}</p>
+            </li>
+          </a>
+        {{/content.latest}}
+      </ul>
+    </div>
+    <div class='featured-container group'>
+      <ul>
+        <li class='listheader'><p>Featured Posts</p></li>
+        {{#content.featured}}
+          <a href="{{ number }}">
+            <li class='featured' style="background-image:url(/images/featured/{{ featuredimg }});">
+              <p class='postTitle'>{{ title }}</p>
+              <p class='postPublished'>{{ date.toDateString }}</p>
+            </li>
+          </a>
+        {{/content.featured}}
+      </ul>
+    </div>
   </div>
 </div>
 <div class='group'>
