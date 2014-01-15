@@ -1,8 +1,8 @@
 = yaml =
-title: "Exciting New Things happening at Oculus VR"
+title: "Exciting New Things Happening at Oculus VR"
 author: "Omar de Armas"
 date: 2014-01-15
-subtitle: "Oculus VR shared some exciting new things at CES this year. They've been working on another prototype, which they call "Crystal Cove", that adds positional tracking and a new low persistence OLED display. Positional tracking seems like a huge step toward creating more realistic VR environments. Head tilts and body reactions will definitely add some more compelling game play. The new OLED display is supposed to clock in at a fraction of the..."
+subtitle: "Oculus VR shared some exciting new things at CES this year. They've been working on another prototype, which they call "Crystal Cove", that adds positional tracking and a new low persistence OLED display. Positional tracking seems like a huge step toward creating more realistic VR environments. Head tilts and body reactions will definitely add some more compelling game play and the new OLED display is supposed to clock in at a fraction of the refresh rate of the current model. The improvements to the display should make huge cuts to motion blur, judder, and hopefully reduce the VR sickness that some people experience. More on that and John Carmack in the full aritcle."
 layout: articles
 featuredimg: oculusvr.png
 number: /posts/2014-01-15-oculus-news.html
