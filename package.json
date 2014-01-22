@@ -29,6 +29,10 @@
   },
   "dependencies": {
     "haiku": "0.2.2",
-    "beamer": "~0.1.1"
+    "beamer": "~0.1.1",
+    "marked": "~0.3.0",
+    "envify": "~0.2.0",
+    "react": "~0.8.0",
+    "reactify": "~0.5.1"
   }
 }
