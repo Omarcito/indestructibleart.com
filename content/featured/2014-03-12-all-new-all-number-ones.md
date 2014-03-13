@@ -1,7 +1,7 @@
 = yaml =
 title: "All New All Number 1s"
 author: "Spencer Carnage"
-date: 2014-03-12
+date: 2014-03-13
 subtitle: "Let’s put on our Marvel Fanboy maskes and work for that Marvel PR Machine"
 layout: articles
 featuredimg: barntalks.png
