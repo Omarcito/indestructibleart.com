@@ -4,7 +4,7 @@ author: "Spencer Carnage"
 date: 2014-03-13
 subtitle: "Let’s put on our Marvel Fanboy maskes and work for that Marvel PR Machine"
 layout: articles
-featuredimg: all-new-all-number-1s.png
+featuredimg: all-new-number-ones-featured.png
 number: /posts/2014-03-12-all-new-all-number-ones.html
 = yaml =
 
@@ -24,6 +24,8 @@ I was a possessed man with an iPad tonight. *Captain Marvel* # 1? Sure. *Avenger
 
 These are all of the All New, All Number 1 comics that Marvel put out this week and I bought them. 
 
+<img src="/images/forPosts/all-new-number-ones-avengers-undercover-1.jpg" class="articlesImgCenter group">
+
 *Avengers Undercover* # 1
 
 According to some sources, *Avengers Arena* was the book to watch out for when Marvel NOW spilled forth it’s ugly entrails upon the suspecting comic book reading populace at large way back when. Super powered teens killing each other? How did I miss this? Oh yeah, I’m this jaded comic book fan who has a hard time trying new super hero comics because, really, I own the *Planetary* omnibus and why wouldn’t I just pour over that a few more times before giving something new a try, huh? 
@@ -34,6 +36,8 @@ Kev Walker’s art is great. Overlook the occassional panel where the scene look
 
 Buy this book already.
 
+<img src="/images/forPosts/all-new-number-ones-captain-marvel-1.jpg" class="articlesImgCenter group">
+
 *Captain Marvel* # 1
 
 So this is Kelly Sue DeConnick’s *Captain Marvel*. It isn’t mind-blowingly amazing but isn’t awful either. 
@@ -43,6 +47,8 @@ Carol Danvers is many things, but most importantly, she is Captain Marvel. And n
 David Lopez Lopez's drawings are sharp. Reminds me of Pia Guerra’s work but with a few lee bees thrown on for good, sexy measure. Kelly Sue DeConnick lends this book a voice that is both cheeky and daring at the same time, which is perfect for the character of Carol Danvers. The cold open at the space bazaar ends kind of flat but setting the pieces for Carol’s inevitable departure makes for a much more satisfying read. But then the issue kind of ends on this “To Infinity And Beyond” moment and my eyes roll back a little bit. 
 
 Maybe *Captain Marvel* just ain’t my thing. Maybe next issue they'll win me over. I'm open to the idea.
+
+<img src="/images/forPosts/all-new-number-ones-secret-avengers-1.jpg" class="articlesImgCenter group">
 
 *Secret Avengers* # 1
 
