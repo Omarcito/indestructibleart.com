@@ -25,7 +25,13 @@
   "readmeFilename": "README.md",
   "gitHead": "77b65ea062ecb04b3ebeb85c27b9ea20822a5a40",
   "devDependencies": {
-    "mocha": "~1.11.0"
+    "mocha": "~1.11.0",
+    "matchdep": "~0.3.0",
+    "grunt-contrib-jshint": "~0.9.2",
+    "grunt-contrib-compass": "~0.7.2",
+    "grunt-contrib-watch": "~0.6.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-uglify": "~0.4.0"
   },
   "dependencies": {
     "haiku": "0.2.2",

@@ -43,7 +43,11 @@
         //background-color: white;
         //padding: 15px;
       }
-      .articlesImgCenter{
+      .center-img {
+        margin: 0 auto;
+        display: block;
+      }
+      .articlesImgCenter {
         width:100%;
         margin:auto;
         position:relative;

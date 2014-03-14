@@ -262,114 +262,6 @@ body nav ul, body #features ul {
 /*---------------Desktop Width: 1200px---------------*/
 /*---------------Mobile Portrait Width: 320px---------------*/
 @media screen and (min-width: 320px) {
-  body .latest-container {
-    display: none;
-  }
-}
-/*---------------Mobile Landscape Width: 480px---------------*/
-/*---------------Tablet Portrait Width: 768px---------------*/
-@media screen and (min-width: 768px) {
-  body .latest-container {
-    float: left;
-    display: inherit;
-    width: 48%;
-  }
-  body .latest-container a {
-    text-decoration: none;
-  }
-  body .latest-container .listheader {
-    list-style: none;
-  }
-  body .latest-container .listheader p {
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: bolder;
-    font-size: 1.3em;
-    text-align: center;
-  }
-  body .latest-container .latest {
-    list-style: none;
-    min-height: 70px;
-    background-color: rgba(0, 0, 0, 0.4);
-    background-position: right;
-    background-size: cover;
-    padding: 5px;
-    border: 1px solid black;
-  }
-  body .latest-container .latest .postTitle {
-    font-weight: normal;
-    font-size: 1.2em;
-    color: white;
-    text-shadow: black 2px 2px 2px;
-  }
-  body .latest-container .latest .postPublished {
-    font-weight: normal;
-    font-size: 1em;
-    color: white;
-    text-shadow: black 2px 2px 2px;
-  }
-}
-/*---------------Tablet Landscape Width: 1024px---------------*/
-/*---------------Desktop Width: 1200px---------------*/
-/*---------------Mobile Portrait Width: 320px---------------*/
-@media screen and (min-width: 320px) {
-  body #features {
-    background-color: snow;
-    border: 1px solid transparent;
-    box-shadow: 2px 2px 2px;
-    margin: auto;
-    width: 90%;
-    padding: 0 3% 3% 3%;
-    margin-top: 5px;
-  }
-  body .featured-container a {
-    text-decoration: none;
-  }
-  body .featured-container .listheader {
-    list-style: none;
-  }
-  body .featured-container .listheader p {
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: bolder;
-    font-size: 1.3em;
-    text-align: center;
-  }
-  body .featured-container .featured {
-    list-style: none;
-    min-height: 70px;
-    background-color: rgba(0, 0, 0, 0.4);
-    background-position: right;
-    background-size: cover;
-    padding: 5px;
-    border: 1px solid black;
-  }
-  body .featured-container .featured .postTitle {
-    font-weight: normal;
-    font-size: 1.2em;
-    color: white;
-    text-shadow: black 2px 2px 2px;
-  }
-  body .featured-container .featured .postPublished {
-    font-weight: normal;
-    font-size: 1em;
-    color: white;
-    text-shadow: black 2px 2px 2px;
-  }
-}
-/*---------------Mobile Landscape Width: 480px---------------*/
-/*---------------Tablet Portrait Width: 768px---------------*/
-@media screen and (min-width: 768px) {
-  body #features {
-    max-width: 990px;
-  }
-  body .featured-container {
-    float: right;
-    width: 48%;
-  }
-}
-/*---------------Tablet Landscape Width: 1024px---------------*/
-/*---------------Desktop Width: 1200px---------------*/
-/*---------------Mobile Portrait Width: 320px---------------*/
-@media screen and (min-width: 320px) {
   body .articles {
     height: auto;
     width: 90%;
@@ -408,6 +300,10 @@ body nav ul, body #features ul {
     width: 96%;
     margin: 5px auto;
     font-family: Times;
+  }
+  body .articles .center-img {
+    margin: 0 auto;
+    display: block;
   }
   body .articles .articlesImgCenter {
     width: 100%;
@@ -508,80 +404,6 @@ body nav ul, body #features ul {
   }
 }
 /*---------------Tablet Landscape Width: 1024px---------------*/
-/*---------------Desktop Width: 1200px---------------*/
-/*---------------Mobile Portrait Width: 320px---------------*/
-@media screen and (min-width: 320px) {
-  body .audios {
-    height: auto;
-    width: 90%;
-    border: 1px solid transparent;
-    box-shadow: 2px 2px 2px;
-    background-color: snow;
-    margin: auto;
-    margin-top: 5px;
-    padding: 3%;
-  }
-  body .audios img {
-    height: 350px;
-    width: 350px;
-    display: inline-block;
-    float: right;
-  }
-  body .audios h4, body .audios h3, body .audios h1 {
-    font-family: helvetica;
-  }
-  body .audios ul li {
-    font-size: 1em;
-  }
-  body .audios ul li a {
-    font-weight: bold;
-    color: blue;
-  }
-  body .audios .subLinks {
-    font-size: 0.8em;
-  }
-}
-/*---------------Mobile Landscape Width: 480px---------------*/
-/*---------------Tablet Portrait Width: 768px---------------*/
-/*---------------Tablet Landscape Width: 1024px---------------*/
-@media screen and (min-width: 1024px) {
-  body .audios {
-    max-width: 990px;
-  }
-}
-/*---------------Desktop Width: 1200px---------------*/
-/*---------------Mobile Portrait Width: 320px---------------*/
-@media screen and (min-width: 320px) {
-  body .videos {
-    height: auto;
-    width: 90%;
-    border: 1px solid transparent;
-    box-shadow: 2px 2px 2px;
-    background-color: snow;
-    color: black;
-    margin: auto;
-    margin-top: 5px;
-    padding: 3%;
-  }
-  body .videos .postTitle {
-    color: black;
-  }
-  body .videos a {
-    text-decoration: none;
-    color: black;
-  }
-  body .videos h4, body .videos h3, body .videos h1 {
-    font-family: helvetica;
-  }
-}
-/*---------------Mobile Landscape Width: 480px---------------*/
-/*---------------Tablet Portrait Width: 768px---------------*/
-/*---------------Tablet Landscape Width: 1024px---------------*/
-@media screen and (min-width: 1024px) {
-  body .videos {
-    max-width: 990px;
-  }
-}
 /*---------------Desktop Width: 1200px---------------*/
 /*---------------Mobile Portrait Width: 320px---------------*/
 @media screen and (min-width: 320px) {

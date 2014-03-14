@@ -24,7 +24,7 @@ I was a possessed man with an iPad tonight. *Captain Marvel* # 1? Sure. *Avenger
 
 These are all of the All New, All Number 1 comics that Marvel put out this week and I bought them. 
 
-<img src="/images/forPosts/all-new-number-ones-avengers-undercover-1.jpg" class="articlesImgCenter group">
+<img src="/images/forPosts/all-new-number-ones-avengers-undercover-1.jpg" class="center-img">
 
 *Avengers Undercover* # 1
 
@@ -36,7 +36,7 @@ Kev Walker’s art is great. Overlook the occassional panel where the scene look
 
 Buy this book already.
 
-<img src="/images/forPosts/all-new-number-ones-captain-marvel-1.jpg" class="articlesImgCenter group">
+<img src="/images/forPosts/all-new-number-ones-captain-marvel-1.jpg" class="center-img">
 
 *Captain Marvel* # 1
 
@@ -48,7 +48,7 @@ David Lopez Lopez's drawings are sharp. Reminds me of Pia Guerra’s work but wi
 
 Maybe *Captain Marvel* just ain’t my thing. Maybe next issue they'll win me over. I'm open to the idea.
 
-<img src="/images/forPosts/all-new-number-ones-secret-avengers-1.jpg" class="articlesImgCenter group">
+<img src="/images/forPosts/all-new-number-ones-secret-avengers-1.jpg" class="center-img">
 
 *Secret Avengers* # 1
 
