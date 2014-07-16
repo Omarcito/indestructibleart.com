@@ -1,4 +1,4 @@
-a yaml =
+= yaml =
 title: "Marvel Solicits For October, 2014"
 author: "Spencer Carnage"
 date: 2014-07-16
@@ -12,9 +12,9 @@ number: /posts/2014-07-15-marvel-solicits-october-2014.html
 <p class='postPublished'>{{ page.date.toDateString }}</p>
 <p class='postAuthor'>By: {{ page.author }}</p>
 <hr>
-<p>October is going to be a BIG month for us Marvel fans. 
+<p>October is going to be a BIG month for us Marvel fans. </p>
 
-<p>Hot on the heels of the Blockbusting, Action Packed, Critically Acclaimed *Original Sin*, we find ourself already 3 issues deep into the highly anticipated *Avengers & X-Men: AXIS* cross-over. As exciting as that is, let's not forget that us Marvel fans are still in mourning over the loss of the Best Avenger & X-Man that ever lived, James "The Wolverine" Howlett. Take a moment of silence as we honor the legacy of The Wolverine in October. And who **IS** this mysterious, silhouetted figure making an appearance on so many Mighty Marvel Magazines???
+<p>Hot on the heels of the Blockbusting, Action Packed, Critically Acclaimed *Original Sin*, we find ourself already 3 issues deep into the highly anticipated *Avengers & X-Men: AXIS* cross-over. As exciting as that is, let's not forget that us Marvel fans are still in mourning over the loss of the Best Avenger & X-Man that ever lived, James "The Wolverine" Howlett. Take a moment of silence as we honor the legacy of The Wolverine in October. And who **IS** this mysterious, silhouetted figure making an appearance on so many Mighty Marvel Magazines???</p>
 
 <hr>
 
@@ -28,9 +28,9 @@ number: /posts/2014-07-15-marvel-solicits-october-2014.html
 <br><br>
 <img src="/images/forPosts/marvel-solicits-october-2014-axis2.jpg" class="center-img">
 
-<p>Hey, look at that! Another cross-over in the Mighty Marvel fashion which will ultimately frustrate me to no end! And it even gets the pleasure of wrecking some of the _**worst comics I have ever loved**_. 
+<p>Hey, look at that! Another cross-over in the Mighty Marvel fashion which will ultimately frustrate me to no end! And it even gets the pleasure of wrecking some of the _**worst comics I have ever loved**_. </p>
 
-<p>But really though, who is this mystery character on the cover of these two books that they are blacking out?
+<p>But really though, who is this mystery character on the cover of these two books that they are blacking out?</p>
 
 <br><br>
 
