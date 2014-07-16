@@ -1,4 +1,4 @@
-= yaml =
+a yaml =
 title: "Marvel Solicits For October, 2014"
 author: "Spencer Carnage"
 date: 2014-07-16
@@ -79,7 +79,7 @@ number: /posts/2014-07-15-marvel-solicits-october-2014.html
 <img src="/images/forPosts/marvel-solicits-october-2014-shehulk9.jpg" class="center-img">
 
 <div style="text-align:center">
-  <p>Turns out that the silhouetted character is Marvel's hottest new character, Grampa America!!! </p>
+  <p>Turns out that the silhouetted character is Marvel's hottest new sensation, Grampa America!!! </p>
 </div>
 
 <br><br>
