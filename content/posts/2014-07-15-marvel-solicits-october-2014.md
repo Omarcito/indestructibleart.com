@@ -14,7 +14,7 @@ number: /posts/2014-07-15-marvel-solicits-october-2014.html
 <hr>
 <p>October is going to be a BIG month for us Marvel fans. 
 
-<p>Hot on the heels of the Blockbusting, Action Packed, Critically Acclaimed *Original Sin*, we find ourself already 3 issues deep into highly anticipated *Avengers & X-Men: AXIS* cross-over. As exciting as that is, let's not forget that us Marvel fans are still in mourning over the loss of the Best Avenger & X-Man that ever lived, James "The Wolverine" Howlett. Take a moment of silence as we honor the legacy of The Wolverine in October. And who **IS** this mysterious, silhouetted figure making an appearance on so many Mighty Marvel Magazines???
+<p>Hot on the heels of the Blockbusting, Action Packed, Critically Acclaimed *Original Sin*, we find ourself already 3 issues deep into the highly anticipated *Avengers & X-Men: AXIS* cross-over. As exciting as that is, let's not forget that us Marvel fans are still in mourning over the loss of the Best Avenger & X-Man that ever lived, James "The Wolverine" Howlett. Take a moment of silence as we honor the legacy of The Wolverine in October. And who **IS** this mysterious, silhouetted figure making an appearance on so many Mighty Marvel Magazines???
 
 <hr>
 
@@ -74,12 +74,12 @@ number: /posts/2014-07-15-marvel-solicits-october-2014.html
   **SHE-HULK #9**
 </div>
 
-<img src="/images/forPosts/marvel-solicits-october-2014-shehulk9.jpg" class="center-img">
-
 <img src="/images/forPosts/marvel-solicits-october-2014-deadpoolcap1.jpg" class="center-img">
 
+<img src="/images/forPosts/marvel-solicits-october-2014-shehulk9.jpg" class="center-img">
+
 <div style="text-align:center">
-  <p>Grampa America, everybody. </p>
+  <p>Turns out that the silhouetted character is Marvel's hottest new character, Grampa America!!! </p>
 </div>
 
 <br><br>
@@ -120,7 +120,7 @@ Stupid Apple Fan Boys.
 
 Get it? Deadpool has a bigger gun and Hawkguy just has his wittle bow and arrow, and he’s all, like, “Deadpool, you jewk, you’re not playing by the wules!” That Deadpool. He’s so hilarious.
 
-(Making fun of bad Deadpool puns with bad puns about Deadpool. Classic Spencer D. Carnage. -Ed.)
+*(Making fun of bad Deadpool puns with bad puns about Deadpool. Classic Spencer D. Carnage. -Ed.)*
 
 <br><br>
 
@@ -143,7 +143,7 @@ I wanna be there in when the brass sits down to discuss the debacle that has bee
 <div style="text-align:center">
 <p>Well, there’s one dog that I don’t want my kids to pet. </p>
 
-<p>Seriously, WTF is up with that dog’s smirk?</p>
+<p>Seriously though. WTF is up with Lockjaw on this cover?</p>
 </div>
 
 <br><br>
@@ -166,7 +166,7 @@ I wanna be there in when the brass sits down to discuss the debacle that has bee
 
 <img src="/images/forPosts/marvel-solicits-october-2014-captainmarvel8.jpg" class="center-img">
 
-Ms. Marvel and Rocket Raccoon are pooping cats or something. I’m not really sure but at least 100 fans on Tumblr are gushing so hard over this image right now.
+Ms. Marvel and Rocket Raccoon are pooping cats or something. I’m not really sure but at least 1000+ fans on Tumblr are gushing so hard over this image right now.
 
 <br><br>
 
@@ -176,9 +176,9 @@ Ms. Marvel and Rocket Raccoon are pooping cats or something. I’m not really su
 
 <img src="/images/forPosts/marvel-solicits-october-2014-ghostrider8.jpg" class="center-img">
 
-You mean to tell me that this guy whose has been rocking the flaming skull look forever and ever is mad at this NKOTB whose running around doing the same thing, when means they to gotta fight about it?
+You mean to tell me that this guy whose has been rocking the flaming skull look forever and ever is mad at this NKOTB whose running around doing the same thing, which means now they to gotta fight about it?
 
-wat i don’t even.
+wat i don’t even
 
 <br><br>
 
