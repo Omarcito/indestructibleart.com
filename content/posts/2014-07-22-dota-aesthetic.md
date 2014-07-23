@@ -1,11 +1,11 @@
 = yaml =
-title: "Are the Original Ascetic Themes of DotA Important?"
+title: "Are the Original Aesthetic Themes of DotA Important?"
 author: "Evan Campbell"
 date: 2014-07-22
 subtitle: "In the past two weeks I have seen three different cinematic videos for MOBA style games. I wanted to share them with you because all three contain similar features and I can't help but wonder how far developers are going to take the original themes from WarCraft 3's DotA mod."
 layout: articles
 featuredimg: ft-dota-ascetics.png
-number: /posts/2014-07-22-dota-ascetics.html
+number: /posts/2014-07-22-dota-aesthetic.html
 = yaml =
 
 <a href="{{ page.url }}" class='postTitleLink'><p class='postTitle'>{{ page.title }}</p></a>
