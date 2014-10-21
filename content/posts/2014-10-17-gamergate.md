@@ -2,7 +2,7 @@
 title: "#GamerGate"
 author: "Omar de Armas"
 date: 2014-10-17
-subtitle: "But here we are. At the breaking point."
+subtitle: "But here we are. At the breaking point. "
 layout: articles
 featuredimg: featgamergate.png
 number: /posts/2014-10-17-gamergate.html
