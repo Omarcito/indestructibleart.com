@@ -15,7 +15,7 @@ number: /posts/2014-10-17-gamergate.html
 
 <img src='/images/featured/featgamergate.png' class='articlesImgCenter group'>
 
->"Silence isn't complicity. Silence might also be not letting a campaign of hate and chaos be taken seriously by not giving it a place at the table." **- Jeff Gerstman, [Giant Bomb](http://www.giantbomb.com/articles/letter-from-the-editor-10-17-2014/1100-5049/)**
+>"Silence isn't complicity. Silence might also be not letting a campaign of hate and chaos be taken seriously by not giving it a place at the table." **- Jeff Gerstmann, [Giant Bomb](http://www.giantbomb.com/articles/letter-from-the-editor-10-17-2014/1100-5049/)**
 
 This is not a popular opinion with the people I know, but it is exactly how I feel.
 
