@@ -1,14 +1,10 @@
 node_modules
 .beam
 .DS_Store
-*.tmproj
 public/audio
 public/images
 build
 .dropbox
 .sass-cache
 Icon
-*.swp
-*.sublime-project
-*.sublime-workspace
 npm-debug.log
